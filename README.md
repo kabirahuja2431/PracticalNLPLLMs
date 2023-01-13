@@ -4,7 +4,7 @@ A Seminar Course at Indian Institute of Science, Bangalore
 ### Course overview 
 
 <p align="justify">
-The aim of this course is to give students an accelerated understanding of build practical engineering NLP systems. We will work with frameworks like OpenNMT, HuggingFace and PyTorch to design natural language processing systems. Towards natural language understanding, we will explore classification tasks like common-sense reasoning and bias detection. We will be demonstrating natural language generation concepts through Neural Machine Translation systems for languages and domains with limited data. 
+The aim of this course is to give students an accelerated understanding of build practical engineering NLP systems. We will work with frameworks like OpenAI API, OpenNMT, HuggingFace and PyTorch to design natural language processing systems. Towards natural language understanding, we will explore classification tasks like common-sense reasoning and bias detection. We will be demonstrating natural language generation concepts through Neural Machine Translation systems for languages and domains with limited data. 
 </p>
 
 ### Course Instructors
