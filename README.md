@@ -44,6 +44,6 @@ Course Coordinator | Course Coordinator | Resource Person | Resource Person
 - Upto Top 3 final projects can be taken towards Publications (guidance provided).  
 
 
-### Application Process
+### Application Process (Form Coming Soon!)
 
-Fill up  [this](https://forms.office.com/r/2ASevrXWWa) form by 31st Jan to be eligible. There are only 30 seats for this course, if there are more applicants, the instructor will conduct some test for selection. Please fill form, latest by 31st January, 2023. 
+Fill up [this]() form by 31st Jan to be eligible. There are only 30 seats for this course, if there are more applicants, the instructor will conduct some test for selection. Please fill form, latest by 31st January, 2023. 
