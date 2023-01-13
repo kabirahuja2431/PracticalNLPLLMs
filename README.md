@@ -1,5 +1,5 @@
 # Practical NLP in the Age of LLMs 
-
+A Seminar Course at Indian Institute of Science, Bangalore 
 
 ### Course overview 
 
@@ -43,7 +43,4 @@ Course Coordinator | Course Coordinator | Resource Person | Resource Person
 - Students will learn how to (a) process data geared towards specific NLP applications (b) building models on top of them and (c) evaluating these models holistically.  
 - Upto Top 3 final projects can be taken towards Publications (guidance provided).  
 
-
-### Application Process (Form Coming Soon!)
-
-Fill up [this]() form by 31st Jan to be eligible. There are only 30 seats for this course, if there are more applicants, the instructor will conduct some test for selection. Please fill form, latest by 31st January, 2023. 
+ 
