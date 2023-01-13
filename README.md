@@ -12,7 +12,7 @@ The aim of this course is to give students an accelerated understanding of build
 
 [Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/)            |  [Chiranjib Bhattacharyya](https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/) | [Harshita Diddee](https://harshitadd.netlify.app/) | [Kabir Ahuja](https://kabirahuja2431.github.io/)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/avatar_user_32996_1505190495-180x180.jpg" width="180" height="180" /> | <img src="https://eecs.iisc.ac.in/wp-content/uploads/2019/11/chiru-300x270.jpg" width="180" height="180" /> | <img src="https://pbs.twimg.com/profile_images/1201512246301454336/qnbIrxxA_400x400.jpg" height="180" /> | <img src="https://kabirahuja2431.github.io/images/profile_pic.jpeg" height="180" />
+<img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/avatar_user_32996_1505190495-180x180.jpg" width="120" height="120" /> | <img src="https://eecs.iisc.ac.in/wp-content/uploads/2019/11/chiru-300x270.jpg" width="120" height="120" /> | <img src="https://pbs.twimg.com/profile_images/1201512246301454336/qnbIrxxA_400x400.jpg" height="120" /> | <img src="https://kabirahuja2431.github.io/images/profile_pic.jpeg" height="120" />
 Course Coordinator | Course Coordinator | Resource Person | Resource Person
 
 ### Course Information
