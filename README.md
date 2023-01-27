@@ -4,7 +4,7 @@ A Seminar Course at Indian Institute of Science, Bangalore
 ### Course overview 
 
 <p align="justify">
-The aim of this course is to give students an accelerated understanding of build practical engineering NLP systems. We will work with frameworks like OpenNMT, HuggingFace and PyTorch to illustrate the end-end functioning of Neural Machine Translation systems. Through a Hands-On approach, we will demonstrate the development of these systems under data constraints: typically seen in low-resource languages and specific domains. 
+The aim of this course is to give students an accelerated understanding of building practical engineering NLP systems. We will work with frameworks like OpenNMT, HuggingFace and PyTorch to illustrate the end-end functioning of Neural Machine Translation systems. Through a Hands-On approach, we will demonstrate the development of these systems under data constraints: typically seen in low-resource languages and specific domains. 
 </p>
 
 ### Course Instructors
@@ -40,6 +40,8 @@ Course Coordinator | Course Coordinator | Resource Person | Resource Person
 - Develop an understanding of fundamental NLP concept and methods. 
 - Get Hands-On experience with deployment-oriented services like cloud platforms and utilizing different NLP Frameworks. 
 - Students will learn how to (a) process data geared towards specific NLP applications (b) building models on top of them and (c) evaluating these models holistically.  
-- Upto Top 3 final projects can be taken towards Publications (guidance provided).  
+- Up to Top 3 final projects can be taken towards Publications (guidance provided).  
+
+
 
  
