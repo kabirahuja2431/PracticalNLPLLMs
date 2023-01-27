@@ -1,10 +1,10 @@
-# Practical NLP in the Age of LLMs 
+# LLMs for Practical NLP: Machine Translation for Low-Resource Languages
 A Seminar Course at Indian Institute of Science, Bangalore 
 
 ### Course overview 
 
 <p align="justify">
-The aim of this course is to give students an accelerated understanding of build practical engineering NLP systems. We will work with frameworks like OpenAI API, OpenNMT, HuggingFace and PyTorch to design natural language processing systems. Towards natural language understanding, we will explore classification tasks like common-sense reasoning and bias detection. We will be demonstrating natural language generation concepts through Neural Machine Translation systems for languages and domains with limited data. 
+The aim of this course is to give students an accelerated understanding of build practical engineering NLP systems. We will work with frameworks like OpenNMT, HuggingFace and PyTorch to illustrate the end-end functioning of Neural Machine Translation systems. Through a Hands-On approach, we will demonstrate the development of these systems under data constraints: typically seen in low-resource languages and specific domains. 
 </p>
 
 ### Course Instructors
@@ -38,8 +38,7 @@ Course Coordinator | Course Coordinator | Resource Person | Resource Person
 ### Learning outcomes
 
 - Develop an understanding of fundamental NLP concept and methods. 
-- Gain familiarity with commonly used NLP frameworks.
-- Get Hands-On experience with deployment-oriented services like cloud platforms and utilizing different commercial APIs. 
+- Get Hands-On experience with deployment-oriented services like cloud platforms and utilizing different NLP Frameworks. 
 - Students will learn how to (a) process data geared towards specific NLP applications (b) building models on top of them and (c) evaluating these models holistically.  
 - Upto Top 3 final projects can be taken towards Publications (guidance provided).  
 
